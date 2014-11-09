@@ -3,16 +3,13 @@ int led = 13;
 
 void setup ()
 {
-  Serial.begin(9600);
   pinMode(boton, INPUT_PULLUP);
   pinMode(led, OUTPUT);
 }
 
 void loop()
 {
- int valor = digitalRead(boton);
- Serial.println(valor, DEC);
- 
+ int valor = digitalRead(boton); 
  if (valor == HIGH)
  {
    digitalWrite(led, LOW);
