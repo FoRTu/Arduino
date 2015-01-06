@@ -23,7 +23,7 @@ Como se puede ver en la imagen, en cada extremo de la hilera de pines pone el nu
 --
 El diagrama del circuito es el siguiente:
 
-![](Diagrama_del_Circuito.png)
+![](Diagrama_del_circuito.png)
 
 <br/>
 
