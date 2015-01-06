@@ -1,4 +1,4 @@
-## Display LCD de 16x2 Caracteres  [^?]
+## Display LCD de 16x2 Caracteres
 
 Es posible conectar un millar de dispositivos a un Arduino, uno de ellos puede ser un display LCD, como el de los antiguos teléfonos móviles o de las calculadoras. En esta practica conectaremos un LCD de 16x2 modelo **LCM1602C**, muy común y barato.
 
@@ -49,5 +49,5 @@ void loop() {
 ~~~
 <br/>
 
-[^?]: Este manual ha sido creado gracias a un post en [comohacer.eu](http://comohacer.eu). Aqui esta el [original](http://comohacer.eu/como-controlar-una-pantalla-lcd-con-arduino/).
+Este manual ha sido creado gracias a un post en [comohacer.eu](http://comohacer.eu). Aqui esta el [original](http://comohacer.eu/como-controlar-una-pantalla-lcd-con-arduino/).
 
