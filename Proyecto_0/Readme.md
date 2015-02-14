@@ -8,7 +8,7 @@ La idea es que un led se encienda durante un intervalo de tiempo. Una vez pasado
 --
 El diagrama del circuito es el siguiente:
 
-![](Diagrama_del_circuito.png)
+![](Diagrama_del_Circuito.png)
 
 Como todavía no me entero mucho con el tema de las resistencias, he utilizado unas de **1k Ohms**. Para identificarlas, estos serian sus colores:
 
