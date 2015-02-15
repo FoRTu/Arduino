@@ -7,3 +7,11 @@ Siempre he tenido la curiosidad de saber como funcionaban las cosas, de pequeño
 Aquí podréis encontrar aquellos proyectos que vaya creando y documentando. Desde encender un led a utilizar todo tipo de dispositivos, sensores, pantallas etc.
 
 
+Listado de Proyectos creados asta el momento:
+
+* **[1 - Marquesina de LEDs](1 - Marquesina de LEDs)**
+* **[2 - Interruptores](2 - Interruptores)**
+* **[3 - LEDs + Interruptores](3 - LEDs + Interruptores)**
+* **[4 - Entradas Analógicas ](4 - Entradas Analógicas )**
+* **[5 - Display LCD](5 - Display LCD)**
+* **[6 - Sensor de Movimiento HC-SR501](6 - Sensor de Movimiento HC-SR501)**
