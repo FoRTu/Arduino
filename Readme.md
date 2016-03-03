@@ -12,6 +12,6 @@ Listado de Proyectos creados asta el momento:
 * **[1 - Marquesina de LEDs](1 - Marquesina de LEDs)**
 * **[2 - Interruptores](2 - Interruptores)**
 * **[3 - LEDs + Interruptores](3 - LEDs + Interruptores)**
-* **[4 - Entradas Analógicas ](4 - Entradas Analógicas )**
+* **[4 - Entradas Analógicas](4 - Entradas Analoogicas)**
 * **[5 - Display LCD](5 - Display LCD)**
 * **[6 - Sensor de Movimiento HC-SR501](6 - Sensor de Movimiento HC-SR501)**
